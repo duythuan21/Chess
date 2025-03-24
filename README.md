@@ -1,6 +1,7 @@
 _**Dự Án Game Cờ Vua - Phát Triển Bằng Godot Engine**_
 
 🎯 Giới Thiệu
+
 Đây là một trò chơi cờ vua được phát triển bằng Godot Engine, tuân thủ đầy đủ các quy tắc cờ vua chính thống. Người chơi có thể di chuyển quân cờ, thực hiện nhập thành, phong cấp tốt, bắt tốt qua đường (en passant), đồng thời trò chơi còn hỗ trợ các luật chơi nâng cao như luật 50 nước và hòa cờ do lặp lại.
 
 ♟ Cách Chơi
@@ -39,6 +40,9 @@ Sprites & Scenes: Hệ thống node giúp quản lý quân cờ và bàn cờ hi
 
 🔥 Tính Năng Chính
 ✅ Luật cờ vua chuẩn: Hỗ trợ tất cả các quy tắc chơi cờ tiêu chuẩn.
+
 ✅ Lượt đánh rõ ràng: Hiển thị và kiểm soát lượt của Trắng & Đen.
+
 ✅ Tương tác trực quan: Người chơi có thể nhấp để di chuyển quân.
+
 ✅ Chế độ đấu với máy hoặc chơi hai người (đang phát triển).
