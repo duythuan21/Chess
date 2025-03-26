@@ -27,14 +27,6 @@ Quân Đen:
 
 ![Screenshot 2025-03-24 185338](https://github.com/user-attachments/assets/c1ffc353-dedb-47ab-a659-42e5448323dc)
 
-
-🎮 Video Gameplay
-
-🚀 Để xem video gameplay của trò chơi, bạn có thể truy cập đường link sau:
-
-📹 Xem video gameplay tại đây (Liên kết đến video demo - cần cập nhật sau khi quay màn hình)
-
-
 🛠 Công Nghệ Sử Dụng
 
 Godot Engine: Công cụ phát triển game mạnh mẽ.
